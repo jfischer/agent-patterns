@@ -1,0 +1,4 @@
+# Copy to .envrc and change the CHANGE_ME to your real OpenAI key
+# This requires that you have the direnv utility set up
+export PATH="`pwd`/venv/bin:$PATH"
+export OPENAI_API_KEY="CHANGE_ME"
