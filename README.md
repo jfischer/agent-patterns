@@ -1,4 +1,4 @@
-# Engineering Generative Agents: Compose patterns to build Generative Agents
+# Engineering Generative Agents: A Pattern-Driven Approach to Agent Design
 
 ## Introduction
 Generative Agents are everywhere in the news, but moving past the hype and into reliable, real-world
@@ -21,7 +21,7 @@ You will learn:
 
 ## Resources
 
-- Talk: []()
+- [Slides for talk at BayPiggies Nov 20, 2025](Engineering-Generative-Agents-talk-2025-11-20.pdf)
 - A "vibe-coded" agent framework [./vibe-coded-agent-framework](./vibe-coded-agent-framework)
 - The ORCA Agent (Observability Root Cause Analysis) [https://github.com/BenedatLLC/orca-agent](https://github.com/BenedatLLC/orca-agent)
 - My Research Assistant (deep research on Arxiv papers) [https://github.com/BenedatLLC/my-research-assistant](https://github.com/BenedatLLC/my-research-assistant)
