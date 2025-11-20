@@ -19,12 +19,19 @@ You will learn:
 
 - Development Best Practices around iterative development, areas of focus, and agent evaluation.
 
+### About me
+Jeff Fischer is a Senior Director of Product Management. He focuses on building Agentic AI application platforms. He's an engineer at heart who's spent years diving deep into software systems, programming languages, and data science. He holds a PhD from UCLA and has led engineering and product teams at companies large and small.
+
+[LinkedIn](https://www.linkedin.com/in/fischerjeff/)
+
 ## Resources
 
-- [Slides for talk at BayPiggies Nov 20, 2025](Engineering-Generative-Agents-talk-2025-11-20.pdf)
-- A "vibe-coded" agent framework [./vibe-coded-agent-framework](./vibe-coded-agent-framework)
-- The ORCA Agent (Observability Root Cause Analysis) [https://github.com/BenedatLLC/orca-agent](https://github.com/BenedatLLC/orca-agent)
-- My Research Assistant (deep research on Arxiv papers) [https://github.com/BenedatLLC/my-research-assistant](https://github.com/BenedatLLC/my-research-assistant)
+- [Slides for talk at BayPiggies Nov 20, 2025](Engineering-Generative-Agents-talk-baypiggies-2025-11-20.pdf)
+- [A longer version of the talk](Engineering-Generative-Agents-talk-long-version.pdf)
+- [A "vibe-coded" agent framework](./vibe-coded-agent-framework)
+- Open source agents
+  - The ORCA Agent (Observability Root Cause Analysis) [https://github.com/BenedatLLC/orca-agent](https://github.com/BenedatLLC/orca-agent)
+  - My Research Assistant (deep research on Arxiv papers) [https://github.com/BenedatLLC/my-research-assistant](https://github.com/BenedatLLC/my-research-assistant)
 
 
 
