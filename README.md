@@ -32,6 +32,10 @@ Jeff Fischer is a Senior Director of Product Management. He focuses on building 
 - Open source agents
   - The ORCA Agent (Observability Root Cause Analysis) [https://github.com/BenedatLLC/orca-agent](https://github.com/BenedatLLC/orca-agent)
   - My Research Assistant (deep research on Arxiv papers) [https://github.com/BenedatLLC/my-research-assistant](https://github.com/BenedatLLC/my-research-assistant)
+- Some relevant papers you might want to read for more background
+  - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+  - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)
+  - [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)
 
 
 
